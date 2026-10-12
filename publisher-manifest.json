@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6759a7421ed3853070dd3222",
+  "owner": "cwcqqj",
+  "repo": "page-d6f2c99f7f0a7e1d2c84805e",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d6f2c99f7f0a7e1d2c84805e",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d89db72c0d8d6ce9d781bc01ab98dbbdb2481317be3f3d8697712dfa157d9ca7",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐为您提供可靠的机场服务和VPN加速解决方案，涵盖客户端下载和订阅指南。稳定高效，让您畅享网络加速。",
+          "AI_DESCRIPTION": "机场推荐为您提供可靠的机场服务和VPN加速解决方案，涵盖客户端下载和订阅指南。稳定高效，让您畅享网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            background: #f8f4eb;\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            padding: 0;\n            color: #333;\n            line-height: 1.7;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            text-align: center;\n            font-size: 3rem;\n            margin-bottom: 1rem;\n            padding: 80px 20px 30px;\n            color: #2d5a3d;\n            border-bottom: 3px solid #4a7c5f;\n        }\n        h2 {\n            font-size: 1.8rem;\n            color: #2d5a3d;\n            margin-top: 50px;\n        }\n        .plans {\n            display: flex;\n            flex-wrap: wrap;\n            justify-content: center;\n            gap: 20px;\n            margin: 30px 0;\n        }\n        .card {\n            flex: 1;\n            min-width: 280px;\n            background: #fff;\n            border: 2px solid #d4c9b0;\n            border-radius: 12px;\n            padding: 25px 20px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n        }\n        .featured {\n            border-color: #4a7c5f;\n            background: #f0f7f2;\n            box-shadow: 0 0 0 4px rgba(74,124,95,0.15);\n        }\n        .plan-name {\n            font-size: 1.4rem;\n            color: #2d5a3d;\n            margin-bottom: 10px;\n        }\n        ul {\n            padding-left: 20px;\n            margin: 15px 0;\n        }\n        li {\n            margin: 8px 0;\n        }\n        details {\n            margin: 15px 0;\n            background: #f8f4eb;\n            padding: 15px;\n            border-radius: 8px;\n        }\n        details summary {\n            font-weight: bold;\n            color: #2d5a3d;\n            cursor: pointer;\n            font-size: 1.1rem;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        footer {\n            text-align: center;\n            margin-top: 60px;\n            padding: 20px;\n            color: #666;\n            font-size: 0.9rem;\n        }\n        a {\n            color: #4a7c5f;\n            text-decoration: none;\n        }\n        a:hover {\n            text-decoration: underline;\n        }\n    </style>\n\n\n    <main>\n        <h1>机场推荐</h1>\n        <h2>品牌简介</h2>\n        <p>机场推荐是一个专业的VPN和机场服务推荐平台。我们专注于提供稳定、高速的网络加速器和客户端下载服务，帮助用户轻松实现全球节点连接，畅享无障碍的在线体验。</p>\n        <h2>使用场景</h2>\n        <p>本平台适用于多种场景，包括流媒体解锁（如Netflix、Disney+）、在线游戏加速、远程办公、以及日常网络浏览优化。无论您是个人用户还是企业团队，都能通过我们的机场客户端获得最佳性能。</p>\n        <h2>操作说明</h2>\n        <p>1. 选择适合您的套餐并完成支付。<br>2. 前往官网下载官方客户端。<br>3. 安装后导入订阅信息，即可连接节点进行加速。</p>\n        <h2>套餐选择</h2>\n        <div class=\"plans\">\n            <div class=\"card\">\n                <h3 class=\"plan-name\">基础版</h3>\n                <p>¥15/月 | 按年付仅需 ¥150/年</p>\n                <ul>\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n            <div class=\"card featured\">\n                <h3 class=\"plan-name\">旗舰版</h3>\n                <p>¥35/月 | 按年付仅需 ¥350/年</p>\n                <ul>\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n            <div class=\"card\">\n                <h3 class=\"plan-name\">团队版</h3>\n                <p>¥85/月 | 按年付仅需 ¥850/年</p>\n                <ul>\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </div>\n        <h2>常见问题</h2>\n        <details>\n            <summary>什么是机场？</summary>\n            <p>机场是指虚拟化网络节点服务，提供VPN代理加速功能，帮助用户绕过网络限制，实现高速连接。</p>\n        </details>\n        <details>\n            <summary>机场推荐的客户端如何下载？</summary>\n            <p>请访问官网下载官方客户端，确保下载最新稳定版本，使用时注意保护隐私。</p>\n        </details>\n        <details>\n            <summary>支持哪些设备和平台？</summary>\n            <p>支持Windows、Mac、Android、iOS等多种主流平台，具体以客户端说明为准。</p>\n        </details>\n        <details>\n            <summary>年付和月付有什么区别？</summary>\n            <p>年付可节省约20%的费用，并获得更稳定的长期服务支持。</p>\n        </details>\n        <details>\n            <summary>如何获取客服支持？</summary>\n            <p>提供7x24在线工单支持，问题可快速得到专业解答。</p>\n        </details>\n        <details>\n            <summary>流量超出后怎么办？</summary>\n            <p>可通过充值或升级套餐继续使用，节点切换也十分便捷。</p>\n        </details>\n        <footer>\n            <p><a href=\"#\">官网下载</a> | <a href=\"#\">订阅指南</a> | <a href=\"#\">客服中心</a> | <a href=\"#\">友情链接</a></p>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "b0b86b8a08d8d28c5f72d5eff01b4215ddd6da981917aef095920f611d20d96e",
+          "seo": {
+            "title": "机场推荐 - 优质VPN加速器 客户端下载 官网下载",
+            "keywords": "机场推荐, VPN加速器, 机场客户端, 官网下载, 机场订阅, VPN加速, 客户端下载",
+            "description": "机场推荐为您提供可靠的机场服务和VPN加速解决方案，涵盖客户端下载和订阅指南。稳定高效，让您畅享网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pmtxctx.cn",
+    "host": "p-b36714e7ed.pmtxctx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "cd3ac521510c1c83eb57e260ae1d14af3f4cdd87905ebbeb7b8615cd69131243",
+    "sitemap.xml": "964eba617291176a8c6835103dc8363e73972b5c1bc96a8ce2716cde6d68d1d5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ee74861b1a8050c4fb34c9312d2ee3f8dc4ec1db5f53142eda99dff09f77e794",
+    "robots.txt": "5ba624bf61ab1e08fd93898b6d8e875dd1be261838d918798d146337bc401cad",
+    "2baeb13a54cc14b754c97a3c13efa340.txt": "76b96c570a196879ddeb183d06e1845322a7d829bc997265a7c98ffefdf8b964"
+  },
+  "revision": "30965ba2286c2d6c2b5ce9cfef2ad618f3a8e21a89129d84dc8d3a6f2dabe87c"
+}
